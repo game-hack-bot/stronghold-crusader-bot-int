@@ -1,0 +1,25 @@
+{
+	"units": {
+		"tunneler": 5,
+		"archer": 22,
+		"crossbowman": 23,
+		"spearman": 24,
+		"pikeman": 25,
+		"maceman": 26,
+		"swordsman": 27,
+		"knight": 28,
+		"ladderman": 29,
+		"engineer": 30,
+		"monk": 37,
+		"arabian archer": 70,
+		"slave": 71,
+		"slinger": 72,
+		"assassin": 73,
+		"horse archer": 74,
+		"arabian swordsman": 75,
+		"fire thrower": 76
+	},
+	"recruitIdNumpad2": 26,
+	"recruitIdNumpad3": 74,
+	"autoTaxesInterval": 10000
+}
