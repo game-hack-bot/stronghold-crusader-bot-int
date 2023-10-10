@@ -2,6 +2,8 @@
 
 Youtube channel: https://www.youtube.com/channel/UC79wUvjHMgPK0dzOkHwxWqw
 
+Ready to use bot is placed inside `stronghold crusader bot` folder.
+
 ## Features
 1. Auto sell resources
 2. Recruit certain amount of a given unit
