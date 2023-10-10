@@ -10,6 +10,8 @@ Ready to use bot is placed inside `stronghold crusader bot` folder. Just double 
 3. Auto tax setting
 
 Youtube videos explaining the features:
+FunDemProgramming: https://youtu.be/g9SvDO29v6I
+FunDemGaming: https://youtu.be/fTsLoGDAyw4
 
 
 ## Other info
