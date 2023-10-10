@@ -17,5 +17,6 @@ Youtube videos explaining the features:
 2. If you are afraid that there's a virus inside `dll` or `exe` file, You can compile the source code on your own.
 3. Remember to compile the source code in `Release x86` mode because Stronghold Crusader is `32 bit` appliaction.
 4. Configs and `bot-dll.dll` have to be in the same directory as `run.exe`.
+5. First launch the game and the start `run.exe`.
 
 Have fun!
